@@ -2,7 +2,7 @@
 #include "ui_mainwindow.h"
 #include "rectangle.h"
 #include "triangle.h"
-#include "ellipse.h"
+#include "Ellipse.h"
 #include <QFileDialog>
 
 MainWindow::MainWindow(QWidget *parent)
