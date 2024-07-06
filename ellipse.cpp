@@ -1,5 +1,6 @@
 #include "Ellipse.h"
 
+
 using namespace std;
 
 Ellipse::Ellipse(): Figure(){
